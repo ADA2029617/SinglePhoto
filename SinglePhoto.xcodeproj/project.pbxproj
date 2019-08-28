@@ -14,6 +14,7 @@
 		6538F00E2316EC9100E58D27 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6538F00C2316EC9100E58D27 /* LaunchScreen.storyboard */; };
 		6538F0192316EC9100E58D27 /* SinglePhotoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6538F0182316EC9100E58D27 /* SinglePhotoTests.swift */; };
 		6538F0242316EC9100E58D27 /* SinglePhotoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6538F0232316EC9100E58D27 /* SinglePhotoUITests.swift */; };
+		6538F0382316F2AB00E58D27 /* jojo-menacing.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6538F0372316F2AB00E58D27 /* jojo-menacing.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		6538F01F2316EC9100E58D27 /* SinglePhotoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SinglePhotoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6538F0232316EC9100E58D27 /* SinglePhotoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SinglePhotoUITests.swift; sourceTree = "<group>"; };
 		6538F0252316EC9100E58D27 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6538F0372316F2AB00E58D27 /* jojo-menacing.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "jojo-menacing.jpeg"; path = "../../../../Downloads/jojo-menacing.jpeg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				6538F00A2316EC9100E58D27 /* Assets.xcassets */,
 				6538F00C2316EC9100E58D27 /* LaunchScreen.storyboard */,
 				6538F00F2316EC9100E58D27 /* Info.plist */,
+				6538F0372316F2AB00E58D27 /* jojo-menacing.jpeg */,
 			);
 			path = SinglePhoto;
 			sourceTree = "<group>";
@@ -231,6 +234,7 @@
 			files = (
 				6538F00E2316EC9100E58D27 /* LaunchScreen.storyboard in Resources */,
 				6538F00B2316EC9100E58D27 /* Assets.xcassets in Resources */,
+				6538F0382316F2AB00E58D27 /* jojo-menacing.jpeg in Resources */,
 				6538F0092316EC9000E58D27 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
